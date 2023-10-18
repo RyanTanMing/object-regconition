@@ -1,0 +1,17 @@
+.heading{
+    width: 50%;
+    font-size: 25px;
+
+}
+.name_of_object,#object_name,#object_accuracy{
+    font-size: 20px;
+color: yellowgreen;
+}
+#camera,#result{
+    border: 3px dotted color-mix(in srgb, blue 20%, green 25%);
+    width: 350px;
+    height: 350px;
+}
+body{
+    background: linear-gradient(160deg,red,rgb(255, 134, 154),white,rgb(255, 134, 154),red);
+}
